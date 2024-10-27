@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-from lumigen.supervisor_agent_pipeline_no_critique import run_agent_pipeline
+from lumigen.pipelines.supervisor_agent_pipeline_no_critique import run_agent_pipeline
 
 
 # Set up the main page
